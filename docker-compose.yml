@@ -1,0 +1,3 @@
+web:
+ image: healthkartimage-api-web
+ tty: true
